@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ai-engineer-vault
-=======
 # AI Engineer Vault
 ### The Definitive Field Manual for Shipping Mission-Critical AI Systems
 
@@ -69,4 +66,3 @@ We welcome contributions that meet our high architectural bar. Please read our [
 
 ---
 © 2026 AI Engineer Vault. Licensed under MIT.
->>>>>>> 66a1acf (Initial commit: Complete AI Engineer Vault repository structure and content)
